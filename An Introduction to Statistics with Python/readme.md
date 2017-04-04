@@ -2,7 +2,7 @@
 
 <img src="cover.png" alt="" height="300">
 
-*[Publisher](http://link.springer.com/book/10.1007%2F978-3-319-28316-6)
+* [Publisher](http://link.springer.com/book/10.1007%2F978-3-319-28316-6)
 
 ## TOC
 * [Ch00 Why Statistics](Ch01_Why_Statistics.md)
