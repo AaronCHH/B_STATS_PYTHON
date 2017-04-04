@@ -1,0 +1,418 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BookmarkExport>
+  <Item ID="1" Name="Preface" Page="8" Open="0">
+    <Item ID="2" Name="For Whom This Book Is" Page="9" Open="0" />
+    <Item ID="3" Name="Additional Material" Page="9" Open="0" />
+    <Item ID="4" Name="Acknowledgments" Page="10" Open="0" />
+  </Item>
+  <Item ID="5" Name="Contents" Page="12" Open="0" />
+  <Item ID="6" Name="Acronyms" Page="18" Open="0" />
+  <Item ID="7" Name="Part I Python and Statistics" Page="19" Open="0">
+    <Item ID="8" Name="1 Why Statistics?" Page="20" Open="0" />
+    <Item ID="9" Name="2 Python" Page="22" Open="0">
+      <Item ID="10" Name="2.1 Getting Started" Page="22" Open="0">
+        <Item ID="11" Name="2.1.1 Conventions" Page="22" Open="0" />
+        <Item ID="12" Name="2.1.2 Distributions and Packages" Page="23" Open="0">
+          <Item ID="13" Name="a) Python Packages for Statistics" Page="23" Open="0" />
+          <Item ID="14" Name="b) PyPI: The Python Package Index" Page="25" Open="0" />
+        </Item>
+        <Item ID="15" Name="2.1.3 Installation of Python" Page="25" Open="0">
+          <Item ID="16" Name="a) Under Windows" Page="25" Open="0" />
+          <Item ID="17" Name="b) Under Linux" Page="26" Open="0" />
+          <Item ID="18" Name="c) Under Mac OS X" Page="27" Open="0" />
+        </Item>
+        <Item ID="19" Name="2.1.4 Installation of R and rpy2" Page="27" Open="0">
+          <Item ID="20" Name="a) Under Windows" Page="28" Open="0" />
+          <Item ID="21" Name="b) Under Linux" Page="28" Open="0" />
+        </Item>
+        <Item ID="22" Name="2.1.5 Personalizing IPython/Jupyter" Page="28" Open="0">
+          <Item ID="23" Name="a) In Windows" Page="29" Open="0" />
+          <Item ID="24" Name="b) In Linux" Page="29" Open="0" />
+          <Item ID="25" Name="c) In Mac OS X" Page="30" Open="0" />
+        </Item>
+        <Item ID="26" Name="2.1.6 Python Resources" Page="31" Open="0" />
+        <Item ID="27" Name="2.1.7 First Python Programs" Page="32" Open="0">
+          <Item ID="28" Name="a) Hello World" Page="32" Open="0" />
+          <Item ID="29" Name="b) SquareMe" Page="33" Open="0" />
+        </Item>
+      </Item>
+      <Item ID="30" Name="2.2 Python Data Structures" Page="34" Open="0">
+        <Item ID="31" Name="2.2.1 Python Datatypes" Page="34" Open="0" />
+        <Item ID="32" Name="2.2.2 Indexing and Slicing" Page="36" Open="0" />
+        <Item ID="33" Name="2.2.3 Vectors and Arrays" Page="36" Open="0" />
+      </Item>
+      <Item ID="34" Name="2.3 IPython/Jupyter: An Interactive Programming Environment" Page="38" Open="0">
+        <Item ID="35" Name="2.3.1 First Session with the Qt Console" Page="39" Open="0" />
+        <Item ID="36" Name="2.3.2 Notebook and rpy2" Page="41" Open="0">
+          <Item ID="37" Name="a) The Notebook" Page="42" Open="0" />
+          <Item ID="38" Name="b) rpy2" Page="42" Open="0" />
+        </Item>
+        <Item ID="39" Name="2.3.3 IPython Tips" Page="43" Open="0" />
+      </Item>
+      <Item ID="40" Name="2.4 Developing Python Programs" Page="44" Open="0">
+        <Item ID="41" Name="2.4.1 Converting Interactive Commands into a Python Program" Page="44" Open="0" />
+        <Item ID="42" Name="2.4.2 Functions, Modules, and Packages" Page="47" Open="0">
+          <Item ID="43" Name="a) Functions" Page="47" Open="0" />
+          <Item ID="44" Name="b) Modules" Page="49" Open="0" />
+        </Item>
+        <Item ID="45" Name="2.4.3 Python Tips" Page="51" Open="0" />
+        <Item ID="46" Name="2.4.4 Code Versioning" Page="51" Open="0" />
+      </Item>
+      <Item ID="47" Name="2.5 Pandas: Data Structures for Statistics" Page="52" Open="0">
+        <Item ID="48" Name="2.5.1 Data Handling" Page="52" Open="0">
+          <Item ID="49" Name="a) Common Procedures" Page="52" Open="0" />
+          <Item ID="50" Name="b) Notes on Data Selection" Page="54" Open="0" />
+        </Item>
+        <Item ID="51" Name="2.5.2 Grouping" Page="54" Open="0" />
+      </Item>
+      <Item ID="52" Name="2.6 Statsmodels: Tools for Statistical Modeling" Page="56" Open="0" />
+      <Item ID="53" Name="2.7 Seaborn: Data Visualization" Page="57" Open="0" />
+      <Item ID="54" Name="2.8 General Routines" Page="58" Open="0" />
+      <Item ID="55" Name="2.9 Exercises" Page="59" Open="0" />
+    </Item>
+    <Item ID="56" Name="3 Data Input" Page="60" Open="0">
+      <Item ID="57" Name="3.1 Input from Text Files" Page="60" Open="0">
+        <Item ID="58" Name="3.1.1 Visual Inspection" Page="60" Open="0" />
+        <Item ID="59" Name="3.1.2 Reading ASCII-Data into Python" Page="61" Open="0">
+          <Item ID="60" Name="a) Simple Text-Files" Page="61" Open="0" />
+          <Item ID="61" Name="b) More Complex Text-Files" Page="62" Open="0" />
+          <Item ID="62" Name="c) Regular Expressions" Page="63" Open="0" />
+        </Item>
+      </Item>
+      <Item ID="63" Name="3.2 Input from MS Excel" Page="64" Open="0" />
+      <Item ID="64" Name="3.3 Input from Other Formats" Page="66" Open="0">
+        <Item ID="65" Name="3.3.1 Matlab" Page="66" Open="0" />
+      </Item>
+    </Item>
+    <Item ID="66" Name="4 Display of Statistical Data" Page="67" Open="0">
+      <Item ID="67" Name="4.1 Datatypes" Page="67" Open="0">
+        <Item ID="68" Name="4.1.1 Categorical" Page="67" Open="0">
+          <Item ID="69" Name="a) Boolean" Page="67" Open="0" />
+          <Item ID="70" Name="b) Nominal" Page="68" Open="0" />
+          <Item ID="71" Name="c) Ordinal" Page="68" Open="0" />
+        </Item>
+        <Item ID="72" Name="4.1.2 Numerical" Page="68" Open="0">
+          <Item ID="73" Name="a) Numerical Continuous" Page="68" Open="0" />
+          <Item ID="74" Name="b) Numerical Discrete" Page="68" Open="0" />
+        </Item>
+      </Item>
+      <Item ID="75" Name="4.2 Plotting in Python" Page="68" Open="0">
+        <Item ID="76" Name="4.2.1 Functional and Object-Oriented Approaches to Plotting" Page="70" Open="0" />
+        <Item ID="77" Name="4.2.2 Interactive Plots" Page="71" Open="0" />
+      </Item>
+      <Item ID="78" Name="4.3 Displaying Statistical Datasets" Page="75" Open="0">
+        <Item ID="79" Name="4.3.1 Univariate Data" Page="75" Open="0">
+          <Item ID="80" Name="a) Scatter Plots" Page="76" Open="0" />
+          <Item ID="81" Name="b) Histograms" Page="77" Open="0" />
+          <Item ID="82" Name="c) Kernel-Density-Estimation (KDE) Plots" Page="77" Open="0" />
+          <Item ID="83" Name="d) Cumulative Frequencies" Page="79" Open="0" />
+          <Item ID="84" Name="e) Error-Bars" Page="80" Open="0" />
+          <Item ID="85" Name="f) Box Plots" Page="81" Open="0" />
+          <Item ID="86" Name="g) Grouped Bar Charts" Page="83" Open="0" />
+          <Item ID="87" Name="h) Pie Charts" Page="84" Open="0" />
+          <Item ID="88" Name="i) Programs: Data Display" Page="85" Open="0" />
+        </Item>
+        <Item ID="89" Name="4.3.2 Bivariate and Multivariate Plots" Page="85" Open="0">
+          <Item ID="90" Name="a) Bivariate Scatter Plots" Page="85" Open="0" />
+          <Item ID="91" Name="b) 3D Plots" Page="86" Open="0" />
+        </Item>
+      </Item>
+      <Item ID="92" Name="4.4 Exercises" Page="87" Open="0" />
+    </Item>
+  </Item>
+  <Item ID="93" Name="Part II Distributions and Hypothesis Tests" Page="88" Open="0">
+    <Item ID="94" Name="5 Background" Page="89" Open="0">
+      <Item ID="95" Name="5.1 Populations and Samples" Page="89" Open="0" />
+      <Item ID="96" Name="5.2 Probability Distributions" Page="90" Open="0">
+        <Item ID="97" Name="5.2.1 Discrete Distributions" Page="91" Open="0" />
+        <Item ID="98" Name="5.2.2 Continuous Distributions" Page="91" Open="0" />
+        <Item ID="99" Name="5.2.3 Expected Value and Variance" Page="92" Open="0">
+          <Item ID="100" Name="a) Expected Value" Page="92" Open="0" />
+          <Item ID="101" Name="b) Variance" Page="92" Open="0" />
+        </Item>
+      </Item>
+      <Item ID="102" Name="5.3 Degrees of Freedom" Page="93" Open="0" />
+      <Item ID="103" Name="5.4 Study Design" Page="93" Open="0">
+        <Item ID="104" Name="5.4.1 Terminology" Page="93" Open="0" />
+        <Item ID="105" Name="5.4.2 Overview" Page="94" Open="0" />
+        <Item ID="106" Name="5.4.3 Types of Studies" Page="95" Open="0">
+          <Item ID="107" Name="a) Observational or Experimental" Page="95" Open="0" />
+          <Item ID="108" Name="b) Prospective or Retrospective" Page="95" Open="0" />
+          <Item ID="109" Name="c) Longitudinal or Cross-Sectional" Page="95" Open="0" />
+          <Item ID="110" Name="d) Case–Control and Cohort studies" Page="95" Open="0" />
+          <Item ID="111" Name="e) Randomized Controlled Trial" Page="95" Open="0" />
+          <Item ID="112" Name="f) Crossover Studies" Page="96" Open="0" />
+        </Item>
+        <Item ID="113" Name="5.4.4 Design of Experiments" Page="96" Open="0">
+          <Item ID="114" Name="a) Sample Selection" Page="96" Open="0" />
+          <Item ID="115" Name="b) Sample Size" Page="97" Open="0" />
+          <Item ID="116" Name="c) Bias" Page="97" Open="0" />
+          <Item ID="117" Name="d) Randomization" Page="98" Open="0" />
+          <Item ID="118" Name="e) Blinding" Page="99" Open="0" />
+          <Item ID="119" Name="f) Factorial Design" Page="100" Open="0" />
+        </Item>
+        <Item ID="120" Name="5.4.5 Personal Advice" Page="100" Open="0">
+          <Item ID="121" Name="1) Preliminary Investigations and Murphy's Law" Page="100" Open="0" />
+          <Item ID="122" Name="2) Calibration Runs" Page="100" Open="0" />
+          <Item ID="123" Name="3) Documentation" Page="101" Open="0" />
+          <Item ID="124" Name="4) Data Storage" Page="101" Open="0" />
+        </Item>
+        <Item ID="125" Name="5.4.6 Clinical Investigation Plan" Page="101" Open="0" />
+      </Item>
+    </Item>
+    <Item ID="126" Name="6 Distributions of One Variable" Page="103" Open="0">
+      <Item ID="127" Name="6.1 Characterizing a Distribution" Page="103" Open="0">
+        <Item ID="128" Name="6.1.1 Distribution Center" Page="103" Open="0">
+          <Item ID="129" Name="a) Mean" Page="103" Open="0" />
+          <Item ID="130" Name="b) Median" Page="104" Open="0" />
+          <Item ID="131" Name="c) Mode" Page="104" Open="0" />
+          <Item ID="132" Name="d) Geometric Mean" Page="105" Open="0" />
+        </Item>
+        <Item ID="133" Name="6.1.2 Quantifying Variability" Page="105" Open="0">
+          <Item ID="134" Name="a) Range" Page="105" Open="0" />
+          <Item ID="135" Name="b) Percentiles" Page="105" Open="0" />
+          <Item ID="136" Name="c) Standard Deviation and Variance" Page="107" Open="0" />
+          <Item ID="137" Name="d) Standard Error" Page="108" Open="0" />
+          <Item ID="138" Name="e) Confidence Intervals" Page="109" Open="0" />
+        </Item>
+        <Item ID="139" Name="6.1.3 Parameters Describing the Form of a Distribution" Page="110" Open="0">
+          <Item ID="140" Name="a) Location" Page="110" Open="0" />
+          <Item ID="141" Name="b) Scale" Page="110" Open="0" />
+          <Item ID="142" Name="c) Shape Parameters" Page="111" Open="0" />
+        </Item>
+        <Item ID="143" Name="6.1.4 Important Presentations of Probability Densities" Page="112" Open="0" />
+      </Item>
+      <Item ID="144" Name="6.2 Discrete Distributions" Page="113" Open="0">
+        <Item ID="145" Name="6.2.1 Bernoulli Distribution" Page="114" Open="0" />
+        <Item ID="146" Name="6.2.2 Binomial Distribution" Page="114" Open="0">
+          <Item ID="147" Name="b) Example: Binomial Test" Page="116" Open="0" />
+        </Item>
+        <Item ID="148" Name="6.2.3 Poisson Distribution" Page="117" Open="0" />
+      </Item>
+      <Item ID="149" Name="6.3 Normal Distribution" Page="118" Open="0">
+        <Item ID="150" Name="6.3.1 Examples of Normal Distributions" Page="121" Open="0" />
+        <Item ID="151" Name="6.3.2 Central Limit Theorem" Page="121" Open="0" />
+        <Item ID="152" Name="6.3.3 Distributions and Hypothesis Tests" Page="122" Open="0" />
+      </Item>
+      <Item ID="153" Name="6.4 Continuous Distributions Derived from the NormalDistribution" Page="123" Open="0">
+        <Item ID="154" Name="6.4.1 t-Distribution" Page="124" Open="0" />
+        <Item ID="155" Name="6.4.2 Chi-Square Distribution" Page="125" Open="0">
+          <Item ID="156" Name="a) Definition" Page="125" Open="0" />
+          <Item ID="157" Name="b) Application Example" Page="127" Open="0" />
+        </Item>
+        <Item ID="158" Name="6.4.3 F-Distribution" Page="127" Open="0">
+          <Item ID="159" Name="a) Definition" Page="127" Open="0" />
+          <Item ID="160" Name="b) Application Example" Page="128" Open="0" />
+        </Item>
+      </Item>
+      <Item ID="161" Name="6.5 Other Continuous Distributions" Page="129" Open="0">
+        <Item ID="162" Name="6.5.1 Lognormal Distribution" Page="130" Open="0" />
+        <Item ID="163" Name="6.5.2 Weibull Distribution" Page="130" Open="0" />
+        <Item ID="164" Name="6.5.3 Exponential Distribution" Page="132" Open="0" />
+        <Item ID="165" Name="6.5.4 Uniform Distribution" Page="132" Open="0" />
+      </Item>
+      <Item ID="166" Name="6.6 Exercises" Page="133" Open="0" />
+    </Item>
+    <Item ID="167" Name="7 Hypothesis Tests" Page="135" Open="0">
+      <Item ID="168" Name="7.1 Typical Analysis Procedure" Page="135" Open="0">
+        <Item ID="169" Name="7.1.1 Data Screening and Outliers" Page="136" Open="0" />
+        <Item ID="170" Name="7.1.2 Normality Check" Page="136" Open="0">
+          <Item ID="171" Name="a) Probability-Plots" Page="136" Open="0" />
+          <Item ID="172" Name="b) Tests for Normality" Page="138" Open="0" />
+        </Item>
+        <Item ID="173" Name="7.1.3 Transformation" Page="140" Open="0" />
+      </Item>
+      <Item ID="174" Name="7.2 Hypothesis Concept, Errors, p-Value, and Sample Size" Page="140" Open="0">
+        <Item ID="175" Name="7.2.1 An Example" Page="140" Open="0" />
+        <Item ID="176" Name="7.2.2 Generalization and Applications" Page="141" Open="0">
+          <Item ID="177" Name="a) Generalization" Page="141" Open="0" />
+          <Item ID="178" Name="b) Additional Examples" Page="142" Open="0" />
+        </Item>
+        <Item ID="179" Name="7.2.3 The Interpretation of the p-Value" Page="142" Open="0" />
+        <Item ID="180" Name="7.2.4 Types of Error" Page="143" Open="0">
+          <Item ID="181" Name="a) Type I Errors" Page="143" Open="0" />
+          <Item ID="182" Name="b) Type II Errors and Test Power" Page="144" Open="0" />
+          <Item ID="183" Name="c) Pitfalls in the Interpretation of p-Values" Page="144" Open="0" />
+        </Item>
+        <Item ID="184" Name="7.2.5 Sample Size" Page="145" Open="0">
+          <Item ID="185" Name="a) Examples" Page="146" Open="0" />
+          <Item ID="186" Name="b) Python Solution" Page="147" Open="0" />
+          <Item ID="187" Name="c) Programs: Sample Size" Page="147" Open="0" />
+        </Item>
+      </Item>
+      <Item ID="188" Name="7.3 Sensitivity and Specificity" Page="148" Open="0">
+        <Item ID="189" Name="7.3.1 Related Calculations" Page="150" Open="0" />
+      </Item>
+      <Item ID="190" Name="7.4 Receiver-Operating-Characteristic (ROC) Curve" Page="150" Open="0" />
+    </Item>
+    <Item ID="191" Name="8 Tests of Means of Numerical Data" Page="152" Open="0">
+      <Item ID="192" Name="8.1 Distribution of a Sample Mean" Page="152" Open="0">
+        <Item ID="193" Name="8.1.1 One Sample t-Test for a Mean Value" Page="152" Open="0">
+          <Item ID="194" Name="a) Example" Page="153" Open="0" />
+        </Item>
+        <Item ID="195" Name="8.1.2 Wilcoxon Signed Rank Sum Test" Page="154" Open="0" />
+      </Item>
+      <Item ID="196" Name="8.2 Comparison of Two Groups" Page="155" Open="0">
+        <Item ID="197" Name="8.2.1 Paired t-Test" Page="155" Open="0" />
+        <Item ID="198" Name="8.2.2 t-Test between Independent Groups" Page="156" Open="0" />
+        <Item ID="199" Name="8.2.3 Nonparametric Comparison of Two Groups: Mann–Whitney Test" Page="157" Open="0" />
+        <Item ID="200" Name="8.2.4 Statistical Hypothesis Tests vs Statistical Modeling" Page="157" Open="0">
+          <Item ID="201" Name="a) Classical t-Test" Page="157" Open="0" />
+          <Item ID="202" Name="b) Statistical Modeling" Page="158" Open="0" />
+        </Item>
+      </Item>
+      <Item ID="203" Name="8.3 Comparison of Multiple Groups" Page="159" Open="0">
+        <Item ID="204" Name="8.3.1 Analysis of Variance (ANOVA)" Page="159" Open="0">
+          <Item ID="205" Name="a) Principle" Page="159" Open="0" />
+          <Item ID="206" Name="b) Example: One-Way ANOVA" Page="161" Open="0" />
+        </Item>
+        <Item ID="207" Name="8.3.2 Multiple Comparisons" Page="163" Open="0">
+          <Item ID="208" Name="a) Tukey's Test" Page="163" Open="0" />
+          <Item ID="209" Name="b) Bonferroni Correction" Page="164" Open="0" />
+          <Item ID="210" Name="c) Holm Correction" Page="165" Open="0" />
+        </Item>
+        <Item ID="211" Name="8.3.3 Kruskal–Wallis Test" Page="165" Open="0" />
+        <Item ID="212" Name="8.3.4 Two-Way ANOVA" Page="165" Open="0" />
+        <Item ID="213" Name="8.3.5 Three-Way ANOVA" Page="167" Open="0" />
+      </Item>
+      <Item ID="214" Name="8.4 Summary: Selecting the Right Test for Comparing Groups" Page="168" Open="0">
+        <Item ID="215" Name="8.4.1 Typical Tests" Page="168" Open="0" />
+        <Item ID="216" Name="8.4.2 Hypothetical Examples" Page="169" Open="0" />
+      </Item>
+      <Item ID="217" Name="8.5 Exercises" Page="170" Open="0" />
+    </Item>
+    <Item ID="218" Name="9 Tests on Categorical Data " Page="171" Open="0">
+      <Item ID="219" Name="9.1 One Proportion" Page="172" Open="0">
+        <Item ID="220" Name="9.1.1 Confidence Intervals" Page="172" Open="0" />
+        <Item ID="221" Name="9.1.2 Explanation" Page="172" Open="0" />
+        <Item ID="222" Name="9.1.3 Example" Page="173" Open="0" />
+      </Item>
+      <Item ID="223" Name="9.2 Frequency Tables" Page="174" Open="0">
+        <Item ID="224" Name="9.2.1 One-Way Chi-Square Test" Page="174" Open="0" />
+        <Item ID="225" Name="9.2.2 Chi-Square Contingency Test" Page="175" Open="0">
+          <Item ID="226" Name="a) Assumptions" Page="175" Open="0" />
+          <Item ID="227" Name="b) Degrees of Freedom" Page="175" Open="0" />
+          <Item ID="228" Name="c) Example 1" Page="176" Open="0" />
+          <Item ID="229" Name="d) Example 2" Page="176" Open="0" />
+          <Item ID="230" Name="e) Comments" Page="177" Open="0" />
+        </Item>
+        <Item ID="231" Name="9.2.3 Fisher's Exact Test" Page="177" Open="0">
+          <Item ID="232" Name="a) Example: ``A Lady Tasting Tea''" Page="178" Open="0" />
+        </Item>
+        <Item ID="233" Name="9.2.4 McNemar's Test" Page="181" Open="0">
+          <Item ID="234" Name="a) Example" Page="181" Open="0" />
+        </Item>
+        <Item ID="235" Name="9.2.5 Cochran's Q Test" Page="182" Open="0">
+          <Item ID="236" Name="a) Example" Page="182" Open="0" />
+        </Item>
+      </Item>
+      <Item ID="237" Name="9.3 Exercises" Page="183" Open="0" />
+    </Item>
+    <Item ID="238" Name="10 Analysis of Survival Times" Page="186" Open="0">
+      <Item ID="239" Name="10.1 Survival Distributions" Page="186" Open="0" />
+      <Item ID="240" Name="10.2 Survival Probabilities" Page="187" Open="0">
+        <Item ID="241" Name="10.2.1 Censorship" Page="187" Open="0" />
+        <Item ID="242" Name="10.2.2 Kaplan–Meier Survival Curve" Page="188" Open="0" />
+      </Item>
+      <Item ID="243" Name="10.3 Comparing Survival Curves in Two Groups" Page="191" Open="0" />
+    </Item>
+  </Item>
+  <Item ID="244" Name="Part III Statistical Modeling" Page="192" Open="0">
+    <Item ID="245" Name="11 Linear Regression Models " Page="193" Open="0">
+      <Item ID="246" Name="11.1 Linear Correlation" Page="194" Open="0">
+        <Item ID="247" Name="11.1.1 Correlation Coefficient" Page="194" Open="0" />
+        <Item ID="248" Name="11.1.2 Rank Correlation" Page="194" Open="0" />
+      </Item>
+      <Item ID="249" Name="11.2 General Linear Regression Model" Page="195" Open="0">
+        <Item ID="250" Name="11.2.1 Example 1: Simple Linear Regression" Page="197" Open="0" />
+        <Item ID="251" Name="11.2.2 Example 2: Quadratic Fit" Page="197" Open="0" />
+        <Item ID="252" Name="11.2.3 Coefficient of Determination" Page="198" Open="0">
+          <Item ID="253" Name="a) Relation to Unexplained Variance" Page="199" Open="0" />
+          <Item ID="254" Name="b) ``Good'' Fits" Page="199" Open="0" />
+        </Item>
+      </Item>
+      <Item ID="255" Name="11.3 Patsy: The Formula Language" Page="200" Open="0">
+        <Item ID="256" Name="11.3.1 Design Matrix" Page="200" Open="0">
+          <Item ID="257" Name="a) Definition" Page="200" Open="0" />
+          <Item ID="258" Name="b) Examples" Page="202" Open="0" />
+        </Item>
+      </Item>
+      <Item ID="259" Name="11.4 Linear Regression Analysis with Python" Page="203" Open="0">
+        <Item ID="260" Name="11.4.1 Example 1: Line Fit with Confidence Intervals" Page="203" Open="0" />
+        <Item ID="261" Name="11.4.2 Example 2: Noisy Quadratic Polynomial" Page="204" Open="0" />
+      </Item>
+      <Item ID="262" Name="11.5 Model Results of Linear Regression Models" Page="208" Open="0">
+        <Item ID="263" Name="11.5.1 Example: Tobacco and Alcohol in the UK" Page="208" Open="0" />
+        <Item ID="264" Name="11.5.2 Definitions for Regression with Intercept" Page="210" Open="0" />
+        <Item ID="265" Name="11.5.3 The R2 Value" Page="211" Open="0" />
+        <Item ID="266" Name="11.5.4 2: The Adjusted R2 Value" Page="211" Open="0">
+          <Item ID="267" Name="a) The F-Test" Page="212" Open="0" />
+          <Item ID="268" Name="b) Log-Likelihood Function" Page="213" Open="0" />
+          <Item ID="269" Name="c) Information Content of Statistical Models: AIC and BIC" Page="214" Open="0" />
+        </Item>
+        <Item ID="270" Name="11.5.5 Model Coefficients and Their Interpretation" Page="215" Open="0">
+          <Item ID="271" Name="a) Coefficients" Page="215" Open="0" />
+          <Item ID="272" Name="b) Standard Error" Page="216" Open="0" />
+          <Item ID="273" Name="c) t-Statistic" Page="217" Open="0" />
+          <Item ID="274" Name="d) Confidence Interval" Page="218" Open="0" />
+        </Item>
+        <Item ID="275" Name="11.5.6 Analysis of Residuals" Page="219" Open="0">
+          <Item ID="276" Name="a) Skewness and Kurtosis" Page="219" Open="0" />
+          <Item ID="277" Name="b) Omnibus Test" Page="220" Open="0" />
+          <Item ID="278" Name="c) Durbin–Watson" Page="220" Open="0" />
+          <Item ID="279" Name="d) Jarque–Bera Test" Page="220" Open="0" />
+          <Item ID="280" Name="e) Condition Number" Page="221" Open="0" />
+        </Item>
+        <Item ID="281" Name="11.5.7 Outliers" Page="222" Open="0" />
+        <Item ID="282" Name="11.5.8 Regression Using Sklearn" Page="222" Open="0" />
+        <Item ID="283" Name="11.5.9 Conclusion" Page="224" Open="0" />
+      </Item>
+      <Item ID="284" Name="11.6 Assumptions of Linear Regression Models" Page="224" Open="0" />
+      <Item ID="285" Name="11.7 Interpreting the Results of Linear Regression Models" Page="228" Open="0" />
+      <Item ID="286" Name="11.8 Bootstrapping" Page="229" Open="0" />
+      <Item ID="287" Name="11.9 Exercises" Page="230" Open="0" />
+    </Item>
+    <Item ID="288" Name="12 Multivariate Data Analysis" Page="231" Open="0">
+      <Item ID="289" Name="12.1 Visualizing Multivariate Correlations" Page="231" Open="0">
+        <Item ID="290" Name="12.1.1 Scatterplot Matrix" Page="231" Open="0" />
+        <Item ID="291" Name="12.1.2 Correlation Matrix" Page="232" Open="0" />
+      </Item>
+      <Item ID="292" Name="12.2 Multilinear Regression" Page="233" Open="0" />
+    </Item>
+    <Item ID="293" Name="13 Tests on Discrete Data" Page="236" Open="0">
+      <Item ID="294" Name="13.1 Comparing Groups of Ranked Data" Page="236" Open="0" />
+      <Item ID="295" Name="13.2 Logistic Regression" Page="237" Open="0">
+        <Item ID="296" Name="13.2.1 Example: The Challenger Disaster" Page="237" Open="0" />
+      </Item>
+      <Item ID="297" Name="13.3 Generalized Linear Models" Page="240" Open="0">
+        <Item ID="298" Name="13.3.1 Exponential Family of Distributions" Page="240" Open="0" />
+        <Item ID="299" Name="13.3.2 Linear Predictor and Link Function" Page="241" Open="0" />
+      </Item>
+      <Item ID="300" Name="13.4 Ordinal Logistic Regression" Page="241" Open="0">
+        <Item ID="301" Name="13.4.1 Problem Definition" Page="241" Open="0" />
+        <Item ID="302" Name="13.4.2 Optimization" Page="243" Open="0" />
+        <Item ID="303" Name="13.4.3 Code" Page="244" Open="0" />
+        <Item ID="304" Name="13.4.4 Performance" Page="244" Open="0" />
+      </Item>
+    </Item>
+    <Item ID="305" Name="14 Bayesian Statistics" Page="246" Open="0">
+      <Item ID="306" Name="14.1 Bayesian vs. Frequentist Interpretation" Page="246" Open="0">
+        <Item ID="307" Name="14.1.1 Bayesian Example" Page="247" Open="0" />
+      </Item>
+      <Item ID="308" Name="14.2 The Bayesian Approach in the Age of Computers" Page="248" Open="0" />
+      <Item ID="309" Name="14.3 Example: Analysis of the Challenger Disaster with a Markov-Chain–Monte-Carlo Simulation" Page="249" Open="0" />
+      <Item ID="310" Name="14.4 Summing Up" Page="252" Open="0" />
+    </Item>
+  </Item>
+  <Item ID="311" Name="Solutions" Page="253" Open="0">
+    <Item ID="312" Name="Problems of Chap.2" Page="253" Open="0" />
+    <Item ID="313" Name="Problems of Chap.4" Page="256" Open="0" />
+    <Item ID="314" Name="Problems of Chap.6" Page="259" Open="0" />
+    <Item ID="315" Name="Problems of Chap.8" Page="263" Open="0" />
+    <Item ID="316" Name="Problems of Chap.9" Page="269" Open="0" />
+    <Item ID="317" Name="Problems of Chap.11" Page="272" Open="0" />
+  </Item>
+  <Item ID="318" Name="Glossary" Page="275" Open="0" />
+  <Item ID="319" Name="References" Page="280" Open="0" />
+  <Item ID="320" Name="Index" Page="282" Open="0" />
+</BookmarkExport>

@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BookmarkExport>
+  <Item ID="1" Name="Preface" Page="6" Open="0">
+    <Item ID="2" Name="Acknowledgments" Page="7" Open="0" />
+  </Item>
+  <Item ID="3" Name="Contents" Page="8" Open="0" />
+  <Item ID="4" Name="Notation" Page="12" Open="0" />
+  <Item ID="5" Name="About the Author" Page="14" Open="0" />
+  <Item ID="6" Name="1 Getting Started with Scientific Python" Page="15" Open="0">
+    <Item ID="7" Name="1.1 Installation and Setup" Page="17" Open="0" />
+    <Item ID="8" Name="1.2 Numpy" Page="18" Open="0">
+      <Item ID="9" Name="1.2.1 Numpy Arrays and Memory" Page="20" Open="0" />
+      <Item ID="10" Name="1.2.2 Numpy Matrices" Page="23" Open="0" />
+      <Item ID="11" Name="1.2.3 Numpy Broadcasting" Page="24" Open="0" />
+      <Item ID="12" Name="1.2.4 Numpy Masked Arrays" Page="26" Open="0" />
+      <Item ID="13" Name="1.2.5 Numpy Optimizations and Prospectus" Page="26" Open="0" />
+    </Item>
+    <Item ID="14" Name="1.3 Matplotlib" Page="27" Open="0">
+      <Item ID="15" Name="1.3.1 Alternatives to Matplotlib" Page="29" Open="0" />
+      <Item ID="16" Name="1.3.2 Extensions to Matplotlib" Page="30" Open="0" />
+    </Item>
+    <Item ID="17" Name="1.4 IPython" Page="30" Open="0">
+      <Item ID="18" Name="1.4.1 IPython Notebook" Page="32" Open="0" />
+    </Item>
+    <Item ID="19" Name="1.5 Scipy" Page="34" Open="0" />
+    <Item ID="20" Name="1.6 Pandas" Page="35" Open="0">
+      <Item ID="21" Name="1.6.1 Series" Page="35" Open="0" />
+      <Item ID="22" Name="1.6.2 Dataframe" Page="37" Open="0" />
+    </Item>
+    <Item ID="23" Name="1.7 Sympy" Page="39" Open="0" />
+    <Item ID="24" Name="1.8 Interfacing with Compiled Libraries" Page="41" Open="0" />
+    <Item ID="25" Name="1.9 Integrated Development Environments" Page="42" Open="0" />
+    <Item ID="26" Name="1.10 Quick Guide to Performance and Parallel Programming" Page="43" Open="0" />
+    <Item ID="27" Name="1.11 Other Resources" Page="46" Open="0" />
+    <Item ID="28" Name="References" Page="46" Open="0" />
+  </Item>
+  <Item ID="29" Name="2 Probability" Page="48" Open="0">
+    <Item ID="30" Name="2.1 Introduction" Page="48" Open="0">
+      <Item ID="31" Name="2.1.1 Understanding Probability Density" Page="49" Open="0" />
+      <Item ID="32" Name="2.1.2 Random Variables" Page="50" Open="0" />
+      <Item ID="33" Name="2.1.3 Continuous Random Variables" Page="55" Open="0" />
+      <Item ID="34" Name="2.1.4 Transformation of Variables Beyond Calculus" Page="58" Open="0" />
+      <Item ID="35" Name="2.1.5 Independent Random Variables" Page="60" Open="0" />
+      <Item ID="36" Name="2.1.6 Classic Broken Rod Example" Page="62" Open="0" />
+    </Item>
+    <Item ID="37" Name="2.2 Projection Methods" Page="63" Open="0">
+      <Item ID="38" Name="2.2.1 Weighted Distance" Page="66" Open="0" />
+    </Item>
+    <Item ID="39" Name="2.3 Conditional Expectation as Projection" Page="67" Open="0">
+      <Item ID="40" Name="2.3.1 Appendix" Page="73" Open="0" />
+    </Item>
+    <Item ID="41" Name="2.4 Conditional Expectation and Mean Squared Error" Page="73" Open="0" />
+    <Item ID="42" Name="2.5 Worked Examples of Conditional Expectation  and Mean Square Error Optimization" Page="77" Open="0">
+      <Item ID="43" Name="2.5.1 Example" Page="77" Open="0" />
+      <Item ID="44" Name="2.5.2 Example" Page="81" Open="0" />
+      <Item ID="45" Name="2.5.3 Example" Page="83" Open="0" />
+      <Item ID="46" Name="2.5.4 Example" Page="86" Open="0" />
+      <Item ID="47" Name="2.5.5 Example" Page="87" Open="0" />
+      <Item ID="48" Name="2.5.6 Example" Page="90" Open="0" />
+    </Item>
+    <Item ID="49" Name="2.6 Information Entropy" Page="91" Open="0">
+      <Item ID="50" Name="2.6.1 Information Theory Concepts" Page="92" Open="0" />
+      <Item ID="51" Name="2.6.2 Properties of Information Entropy" Page="94" Open="0" />
+      <Item ID="52" Name="2.6.3 Kullback-Leibler Divergence" Page="95" Open="0" />
+    </Item>
+    <Item ID="53" Name="2.7 Moment Generating Functions" Page="96" Open="0" />
+    <Item ID="54" Name="2.8 Monte Carlo Sampling Methods" Page="100" Open="0">
+      <Item ID="55" Name="2.8.1 Inverse CDF Method for Discrete Variables" Page="101" Open="0" />
+      <Item ID="56" Name="2.8.2 Inverse CDF Method for Continuous Variables" Page="103" Open="0" />
+      <Item ID="57" Name="2.8.3 Rejection Method" Page="105" Open="0" />
+    </Item>
+    <Item ID="58" Name="2.9 Useful Inequalities" Page="108" Open="0">
+      <Item ID="59" Name="2.9.1 Markov's Inequality" Page="109" Open="0" />
+      <Item ID="60" Name="2.9.2 Chebyshev's Inequality" Page="110" Open="0" />
+      <Item ID="61" Name="2.9.3 Hoeffding's Inequality" Page="111" Open="0" />
+    </Item>
+    <Item ID="62" Name="References" Page="112" Open="0" />
+  </Item>
+  <Item ID="63" Name="3 Statistics" Page="114" Open="0">
+    <Item ID="64" Name="3.1 Introduction" Page="114" Open="0" />
+    <Item ID="65" Name="3.2 Python Modules for Statistics" Page="115" Open="0">
+      <Item ID="66" Name="3.2.1 Scipy Statistics Module" Page="115" Open="0" />
+      <Item ID="67" Name="3.2.2 Sympy Statistics Module" Page="116" Open="0" />
+      <Item ID="68" Name="3.2.3 Other Python Modules for Statistics" Page="117" Open="0" />
+    </Item>
+    <Item ID="69" Name="3.3 Types of Convergence" Page="117" Open="0">
+      <Item ID="70" Name="3.3.1 Almost Sure Convergence" Page="118" Open="0" />
+      <Item ID="71" Name="3.3.2 Convergence in Probability" Page="120" Open="0" />
+      <Item ID="72" Name="3.3.3 Convergence in Distribution" Page="122" Open="0" />
+      <Item ID="73" Name="3.3.4 Limit Theorems" Page="123" Open="0" />
+    </Item>
+    <Item ID="74" Name="3.4 Estimation Using Maximum Likelihood" Page="124" Open="0">
+      <Item ID="75" Name="3.4.1 Setting Up the Coin Flipping Experiment" Page="126" Open="0" />
+      <Item ID="76" Name="3.4.2 Delta Method" Page="136" Open="0" />
+    </Item>
+    <Item ID="77" Name="3.5 Hypothesis Testing and P-Values" Page="138" Open="0">
+      <Item ID="78" Name="3.5.1 Back to the Coin Flipping Example" Page="139" Open="0" />
+      <Item ID="79" Name="3.5.2 Receiver Operating Characteristic" Page="143" Open="0" />
+      <Item ID="80" Name="3.5.3 P-Values" Page="145" Open="0" />
+      <Item ID="81" Name="3.5.4 Test Statistics" Page="146" Open="0" />
+      <Item ID="82" Name="3.5.5 Testing Multiple Hypotheses" Page="153" Open="0" />
+    </Item>
+    <Item ID="83" Name="3.6 Confidence Intervals" Page="154" Open="0" />
+    <Item ID="84" Name="3.7 Linear Regression" Page="157" Open="0">
+      <Item ID="85" Name="3.7.1 Extensions to Multiple Covariates" Page="167" Open="0" />
+    </Item>
+    <Item ID="86" Name="3.8 Maximum A-Posteriori" Page="171" Open="0" />
+    <Item ID="87" Name="3.9 Robust Statistics" Page="177" Open="0" />
+    <Item ID="88" Name="3.10 Bootstrapping" Page="184" Open="0">
+      <Item ID="89" Name="3.10.1 Parametric Bootstrap" Page="188" Open="0" />
+    </Item>
+    <Item ID="90" Name="3.11 Gauss Markov" Page="189" Open="0" />
+    <Item ID="91" Name="3.12 Nonparametric Methods" Page="193" Open="0">
+      <Item ID="92" Name="3.12.1 Kernel Density Estimation" Page="193" Open="0" />
+      <Item ID="93" Name="3.12.2 Kernel Smoothing" Page="196" Open="0" />
+      <Item ID="94" Name="3.12.3 Nonparametric Regression Estimators" Page="201" Open="0" />
+      <Item ID="95" Name="3.12.4 Nearest Neighbors Regression" Page="202" Open="0" />
+      <Item ID="96" Name="3.12.5 Kernel Regression" Page="206" Open="0" />
+      <Item ID="97" Name="3.12.6 Curse of Dimensionality" Page="207" Open="0" />
+    </Item>
+    <Item ID="98" Name="References" Page="209" Open="0" />
+  </Item>
+  <Item ID="99" Name="4 Machine Learning" Page="210" Open="0">
+    <Item ID="100" Name="4.1 Introduction" Page="210" Open="0" />
+    <Item ID="101" Name="4.2 Python Machine Learning Modules" Page="210" Open="0" />
+    <Item ID="102" Name="4.3 Theory of Learning" Page="214" Open="0">
+      <Item ID="103" Name="4.3.1 Introduction to Theory of Machine Learning" Page="216" Open="0" />
+      <Item ID="104" Name="4.3.2 Theory of Generalization" Page="220" Open="0" />
+      <Item ID="105" Name="4.3.3 Worked Example for Generalization/Approximation Complexity" Page="222" Open="0" />
+      <Item ID="106" Name="4.3.4 Cross-Validation" Page="228" Open="0" />
+      <Item ID="107" Name="4.3.5 Bias and Variance" Page="232" Open="0" />
+      <Item ID="108" Name="4.3.6 Learning Noise" Page="235" Open="0" />
+    </Item>
+    <Item ID="109" Name="4.4 Decision Trees" Page="238" Open="0">
+      <Item ID="110" Name="4.4.1 Random Forests" Page="245" Open="0" />
+    </Item>
+    <Item ID="111" Name="4.5 Logistic Regression" Page="247" Open="0">
+      <Item ID="112" Name="4.5.1 Generalized Linear Models" Page="252" Open="0" />
+    </Item>
+    <Item ID="113" Name="4.6 Regularization" Page="253" Open="0">
+      <Item ID="114" Name="4.6.1 Ridge Regression" Page="257" Open="0" />
+      <Item ID="115" Name="4.6.2 Lasso" Page="261" Open="0" />
+    </Item>
+    <Item ID="116" Name="4.7 Support Vector Machines" Page="263" Open="0">
+      <Item ID="117" Name="4.7.1 Kernel Tricks" Page="266" Open="0" />
+    </Item>
+    <Item ID="118" Name="4.8 Dimensionality Reduction" Page="269" Open="0">
+      <Item ID="119" Name="4.8.1 Independent Component Analysis" Page="273" Open="0" />
+    </Item>
+    <Item ID="120" Name="4.9 Clustering" Page="277" Open="0" />
+    <Item ID="121" Name="4.10 Ensemble Methods" Page="281" Open="0">
+      <Item ID="122" Name="4.10.1 Bagging" Page="281" Open="0" />
+      <Item ID="123" Name="4.10.2 Boosting" Page="284" Open="0" />
+    </Item>
+    <Item ID="124" Name="References" Page="286" Open="0" />
+  </Item>
+  <Item ID="125" Name="Index" Page="287" Open="0" />
+</BookmarkExport>
