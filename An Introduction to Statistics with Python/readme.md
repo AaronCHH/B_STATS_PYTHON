@@ -1,9 +1,8 @@
 # An Introduction to Statistics with Python
 
-<!-- toc orderedList:0 depthFrom:1 depthTo:6 -->
-<!-- tocstop -->
 <img src="cover.tif" alt="" height="300">
-*[Publisher]()
+
+*[Publisher](http://link.springer.com/book/10.1007%2F978-3-319-28316-6)
 
 ## TOC
 * [Ch00 Why Statistics](Ch01_Why_Statistics.md)
