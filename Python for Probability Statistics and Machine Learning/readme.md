@@ -1,6 +1,6 @@
 # Python for Probability Statistics and Machine Learning
 
-<img src="cover.tif" alt="" height="300">
+<img src="cover.png" alt="" height="300">
 
 * [Publisher](https://link.springer.com/book/10.1007%2F978-3-319-30717-6)
 
